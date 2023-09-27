@@ -1,1 +1,1 @@
-# nlp_hmm_memm
+# NLP HMM and MEMM implementations for Named Entities Recognition
